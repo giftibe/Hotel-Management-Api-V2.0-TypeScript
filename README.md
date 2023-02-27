@@ -65,8 +65,6 @@ Hotel management API using Typescript which includes validation, authentication 
 - POST "{baseUrl}/api/v1/rooms-types": Creates new roomType.
 
 
-## Expected Output
-https://github.com/giftibe/Hotel-Management-API/tree/main/images
 
 ## Acknowledgements
 - This project was inspired by Genesys Tech Hub/Laearnable 23
