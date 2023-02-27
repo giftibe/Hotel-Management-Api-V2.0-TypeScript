@@ -1,7 +1,7 @@
 //PACKAGES
 import express from "express"
 const app = express();
-import  router from './src/Routes/index.route'
+import  router from './Routes/index.route'
 import dotenv from 'dotenv'
 dotenv.config();
 import cors from 'cors'
@@ -9,7 +9,7 @@ import cors from 'cors'
 
 
 //IMPORTS
-import database from './src/db'
+import database from './db'
 app.use(cors());
 app.use(express.json())
 
